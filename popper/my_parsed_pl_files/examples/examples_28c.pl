@@ -1,0 +1,10 @@
+pos(belongs(v2402,28c)).
+pos(belongs(v1792,28c)).
+pos(belongs(v2621,28c)).
+pos(belongs(v1791,28c)).
+pos(belongs(v2682,28c)).
+neg(belongs(v772,28c)).
+neg(belongs(v73,28c)).
+neg(belongs(v521,28c)).
+neg(belongs(v2532,28c)).
+neg(belongs(v1539,28c)).
